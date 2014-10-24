@@ -1,2 +1,24 @@
-baseurl: /
-auto: true
+# standard jekyll configuration options
+
+exclude: ['Rakefile', 'README.md', 'config.rb']
+
+# configuration required for some pages
+
+domain: mayi.github.io
+title: M Blog
+author: Ma Yi
+email: mayi@live.com
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+#   id: feedburnerid
+
+# google_analytics:
+#   account: UA-XXXXX-X
+
+github:
+   username: mayi
+
+# disqus:
+#   id: disqusid
